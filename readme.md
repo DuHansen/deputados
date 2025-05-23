@@ -58,8 +58,26 @@ Este projeto realiza o **web scraping**, análise e visualização de dados púb
 
 ## 📈 Exemplos de Gráficos
 
+### 📊 Top 10 Deputados por Gasto
 ![Top Deputados](img/top_deputados.png)
-![Gastos por Ano](img/gasto_por_ano.png)
+
+### 📦 Gastos por Subcota
+![Gasto Subcota](img/gasto_subquota.png)
+
+### 📅 Gasto Total por Ano
+![Gasto por Ano](img/gasto_por_ano.png)
+
+### 📉 Média de Reembolso
+![Média Reembolso](img/media_reembolso.png)
+
+### 👥 Quantidade de Deputados Analisados
+![Quantidade Deputados](img/quantidade_deputados.png)
+
+### 🚩 Casos Suspeitos
+![Suspeitos](img/suspeitos.png)
+
+### 🏢 Principais Fornecedores
+![Top Fornecedores](img/top_fornecedores.png)
 
 ---
 
